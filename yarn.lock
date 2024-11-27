@@ -1980,6 +1980,11 @@
     react-native-modal-selector "^2.1.1"
     tinycolor2 "^1.4.1"
 
+"@storybook/addon-react-native-web@^0.0.26":
+  version "0.0.26"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-react-native-web/-/addon-react-native-web-0.0.26.tgz#a4db818430f66b614200fb41e887b0580a25ad4c"
+  integrity sha512-8YvP6B4VsOw5QWwy0Se0D9wJCKOK4gKi67y2+FMX6Yhbt4yImWnc5vsfhEZaXC6OeTK6uNoy7iaeGgsL2ZThlQ==
+
 "@storybook/components@8.4.5":
   version "8.4.5"
   resolved "https://registry.yarnpkg.com/@storybook/components/-/components-8.4.5.tgz#039e4cb5090c56c47fc10f0c5ecda77f4b015c7f"
@@ -4831,7 +4836,7 @@ expo-asset@~11.0.1:
     invariant "^2.2.4"
     md5-file "^3.2.3"
 
-expo-constants@~17.0.0, expo-constants@~17.0.3:
+expo-constants@^17.0.3, expo-constants@~17.0.0, expo-constants@~17.0.3:
   version "17.0.3"
   resolved "https://registry.yarnpkg.com/expo-constants/-/expo-constants-17.0.3.tgz#a05b38e0417d59759ece1642b4d483889e04dbda"
   integrity sha512-lnbcX2sAu8SucHXEXxSkhiEpqH+jGrf+TF+MO6sHWIESjwOUVVYlT8qYdjR9xbxWmqFtrI4KV44FkeJf2DaFjQ==

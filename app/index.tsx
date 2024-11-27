@@ -1,9 +1,5 @@
-import { Text, View } from "tamagui";
+import StorybookUIRoot from "../.storybook";
 
-export default function Index() {
-  return (
-    <View display="flex" flex={1} justifyContent="center" alignItems="center">
-      <Text>Welcome to the App!</Text>
-    </View>
-  );
+export default function StorybookScreen() {
+  return <StorybookUIRoot />;
 }

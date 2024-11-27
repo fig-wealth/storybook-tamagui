@@ -1,4 +1,4 @@
-{
+module.exports = {
   "expo": {
     "name": "storybook-tamagui",
     "slug": "storybook-tamagui",
@@ -28,6 +28,9 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "storybookEnabled": process.env.STORYBOOK_ENABLED === 'true'
+    }
   }
 }
