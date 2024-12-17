@@ -4,20 +4,13 @@ This project is a base implementation combining an Expo React Native app with Ta
 
 ## Setup
 
-To get started, run:
+Run this command to setup the app:
 
 ```
 yarn install
 ```
 
-### If you run into a node version mismatch
-
-Install a node version manager such as nvm:
-https://github.com/nvm-sh/nvm
-
-Then:
-`nvm install 20.10.0`
-`nvm use 20.10.0`
+*Note:* If you run into a node version mismatch, install a node version manager such as nvm: https://github.com/nvm-sh/nvm. `nvm install 20.10.0` then `nvm use 20.10.0`
 
 ## Getting started
 
