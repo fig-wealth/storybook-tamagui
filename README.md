@@ -10,6 +10,15 @@ To get started, run:
 yarn install
 ```
 
+### If you run into a node version mismatch
+
+Install a node version manager such as nvm:
+https://github.com/nvm-sh/nvm
+
+Then:
+`nvm install 20.10.0`
+`nvm use 20.10.0`
+
 ## Getting started
 
 Storybook docs:
