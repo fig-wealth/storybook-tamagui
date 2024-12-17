@@ -10,6 +10,17 @@ To get started, run:
 yarn install
 ```
 
+## Getting started
+
+Storybook docs:
+https://storybook.js.org/
+
+Tamagui docs:
+https://tamagui.dev/
+
+Example component:
+[`.storybook/stories/Button`](https://github.com/fig-wealth/storybook-tamagui/tree/main/.storybook/stories/Button)
+
 ## Testing
 
 You can run the app using the following commands:
