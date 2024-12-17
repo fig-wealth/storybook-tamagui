@@ -21,7 +21,7 @@ https://tamagui.dev/
 Example component:
 [`.storybook/stories/Button`](https://github.com/fig-wealth/storybook-tamagui/tree/main/.storybook/stories/Button)
 
-## Testing
+## Running the app
 
 You can run the app using the following commands:
 
