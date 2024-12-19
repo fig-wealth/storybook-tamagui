@@ -10,7 +10,7 @@ Run this command to setup the app:
 yarn install
 ```
 
-*Note:* If you run into a node version mismatch, install a node version manager such as nvm: https://github.com/nvm-sh/nvm. `nvm install 20.10.0` then `nvm use 20.10.0`
+_Note:_ If you run into a node version mismatch, install a node version manager such as nvm: https://github.com/nvm-sh/nvm. `nvm install 20.10.0` then `nvm use 20.10.0`
 
 ## Getting started
 
@@ -22,6 +22,10 @@ https://tamagui.dev/
 
 Example component:
 [`.storybook/stories/Button`](https://github.com/fig-wealth/storybook-tamagui/tree/main/.storybook/stories/Button)
+
+### Light/Dark Mode
+
+Light and dark mode are supported using the browser or device settings. You can toggle it by adjusting the settings. In iOS simulators, you can also toggle it using the keyboard shortcut: CMD + SHIFT + A.
 
 ## Running the app
 
